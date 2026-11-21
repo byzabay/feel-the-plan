@@ -4,6 +4,8 @@ A Claude Code skill that turns "explain this to me" into **one picture you can t
 
 Built for people with ADHD (and anyone else) who build software with Claude and lose the thread in long replies.
 
+**[See a live example](https://byzabay.github.io/feel-the-plan/)**: a made-up "user signs up" flow. Hover or tap any box.
+
 ## The problem it solves
 
 You ask Claude how a feature works, or what it plans to build. You get 60 lines of prose. By line 20 you've lost where you were. You skim, approve something you didn't fully read, and the build drifts.
